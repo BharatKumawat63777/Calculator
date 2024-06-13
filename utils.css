@@ -1,0 +1,29 @@
+.text-center{
+    text-align: center;
+}
+
+.bg-red{
+   
+    background: rgb(10 69 147 / 58%);
+    border: 3px solid red;
+    
+}
+
+.mx-auto{
+    margin: auto;
+}
+
+.flex{
+display: flex;
+}
+
+.flex-col{
+flex-direction: column;
+}
+
+.item-center{
+    align-items: center;   
+}
+.inputstore{
+    margin-left: 0px;
+}
